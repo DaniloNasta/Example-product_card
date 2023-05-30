@@ -1,0 +1,25 @@
+.product-card {
+    width: 300px;
+    background-color: #010101;
+}
+
+.bottom-rectangle{
+    background-color: #2E2F34;
+    color: white;
+}
+  
+.product-title {
+    font-size: 34px;
+}
+  
+.product-description {
+    font-size: 14px;
+}
+  
+.product-price {
+    font-size: 24px;
+}
+
+i{
+    cursor: pointer;
+}
